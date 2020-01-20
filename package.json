@@ -1,0 +1,25 @@
+{
+  "name": "keksobooking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Учебный проект «Кексобукинг»",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "eslint": "6.3.0",
+    "eslint-config-htmlacademy": "0.5.2"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "8.11"
+  }
+}
